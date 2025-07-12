@@ -2,7 +2,7 @@
 
 🎓 Master's in Data Science, AI & Digital Business  
 📍 Based in Berlin, Germany  
-💼 Open to Junior AI/ML and Data Science Roles  
+💼 Open to Internship/Junior AI/ML and Data Science Roles  
 
 ---
 
