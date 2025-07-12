@@ -21,15 +21,6 @@
 🔗 [📰 AI Journalism Storytelling App (Thesis)](https://github.com/arju-chaturvedi/reimagining-journalism)  
 NLP summarization, zero-shot classification, text-to-image generation, and UI/UX in Streamlit
 
-🔗 [💼 Resume Analyzer + Job Matcher (LangChain + RAG)](https://github.com/arju-chaturvedi/job-matching-agent)  
-An AI agent that uses embeddings + LLMs to recommend jobs based on resume content
-
-🔗 [⚡ PySpark Data Pipeline on Databricks](https://github.com/arju-chaturvedi/pyspark-databricks-project)  
-Transformations, joins, and aggregations using Spark on Databricks CE
-
-🔗 [📊 EDA: Berlin Housing Market Analysis](https://github.com/arju-chaturvedi/berlin-housing-eda)  
-Data wrangling, insights & visualizations from local housing data
-
 ---
 
 ### 📫 Let's Connect
